@@ -38,6 +38,7 @@ Participants must build a "Sentinel" system that monitors an urban environmentâ€
  * Fork this repo to your own GitHub account.
  * Create a folder named [YourName]-[ProjectName].
  * Maintain your code within that folder.
+ * See our submission template that you can drop in the root of your directory
 
 
 ### 3. Build & Document
